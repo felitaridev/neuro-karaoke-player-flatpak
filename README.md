@@ -6,6 +6,7 @@ The goal of this app is to provide a sandboxed flatpak version of the app for se
 ## Repository Links
 PRs and Issues via Codeberg. Github mirror for convenience.
 - [Issues](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/issues)
+- [Pull Requests](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/pulls)
 
 ## Installing
 

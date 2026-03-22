@@ -47,5 +47,8 @@ modules:
           - rm Neuro.Karaoke.Player.deb
 finish-args: 
   - --socket=wayland
+  - --socket=fallback-x11
   - --socket=pulseaudio
   - --share=network
+  - --talk-name=org.kde.StatusNotifierWatcher
+  - --talk-name=com.canonical.AppMenu.Registrar

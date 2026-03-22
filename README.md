@@ -7,12 +7,12 @@ The goal of this app is to provide a sandboxed flatpak version of the app for se
 PRs and Issues via Codeberg. Github mirror for convenience.
 - [Issues](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/issues)
 - [Pull Requests](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/pulls)
-
+- [Releases](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/releases)
 ## Installing
 
 Ensure you have the flathub repo installed.
 
-Grab the `.flatpak` file from the Releases, and install it using
+Grab the `.flatpak` file from the [Releases](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/releases), and install it using
 
 ```
 flatpak install --user [path to file].flatpak

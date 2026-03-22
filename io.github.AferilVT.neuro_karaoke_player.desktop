@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Neuro Karaoke Player
+Exec=neuro-karaoke-player --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=io.github.AferilVT.neuro_karaoke_player
+StartupWMClass=Neuro Karaoke Player
+Comment=Desktop wrapper for neurokaraoke.com with media controls and tray support
+Categories=AudioVideo;

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.AferilVT.neuro_karaoke_player</id>
+  
+  <name>Neuro Karaoke Player</name>
+  <summary>Desktop wrapper for Neuro Karaoke website </summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      A native desktop app for listening to Neuro covers of songs made with Electron. Streams from [NeuroKaraoke](https://neurokaraoke.com/)
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.AferilVT.neuro_karaoke_player.desktop</launchable>
+</component>

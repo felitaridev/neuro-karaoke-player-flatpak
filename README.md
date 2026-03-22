@@ -3,11 +3,15 @@
 This is a Flatpak wrapper for the [Neuro Karaoke Player](https://github.com/AferilVT/neuro-karaoke-wrapper).
 The goal of this app is to provide a sandboxed flatpak version of the app for security and portability.
 
+## Repository Links
+PRs and Issues via Codeberg. Github mirror for convenience.
+- [Issues](https://codeberg.org/felitaridev/neuro-karaoke-player-flatpak/issues)
+
 ## Installing
 
 Ensure you have the flathub repo installed.
 
-Grab the `.flatpak` file, and install it using
+Grab the `.flatpak` file from the Releases, and install it using
 
 ```
 flatpak install --user [path to file].flatpak
